@@ -27,6 +27,6 @@ A simple web app that uses an AI model to generate natural-language captions for
 
 ```bash
 git clone https://github.com/your-username/ai-image-caption-generator.git
-cd ai-image-caption-generator
+cd ai-img-caption-generator
 npm install
 npm run dev
